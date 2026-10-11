@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AgriTrust — Smart Agriculture Decision Support & Direct Farmer-to-Buyer Marketplace
 
 > **Tagline:** *"Grow Smarter. Sell Fairer. Build Trust."*
@@ -213,3 +214,4 @@ All 11 test modules test registration, login, crop and farm management, recommen
 - **Advisory Nature**: AI diagnoses and crop recommendations are advisory decision aids. In real-world farming, local soil tests and agricultural extension officer consultations are recommended.
 - **Payment Processing**: Orders use explicit Pay-on-Delivery or Direct Demo Settlement; no fake payment gateway transactions are executed.
 - **Traceability Verification**: Harvest batches distinguish registered self-attested lots from officially verified inspection certificates.
+
